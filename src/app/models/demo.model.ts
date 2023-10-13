@@ -1,5 +1,5 @@
 export interface DemoModel {
-    PostId: number,
+    PostId: number;
     Id: number;
     Name: string;
     Email: string;
